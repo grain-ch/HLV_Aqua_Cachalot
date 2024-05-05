@@ -1,0 +1,10 @@
+<ASS003_Cachalot_1933_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933_mg.dds	</Texture>
+	</property>
+</ASS003_Cachalot_1933_wire.mfm>

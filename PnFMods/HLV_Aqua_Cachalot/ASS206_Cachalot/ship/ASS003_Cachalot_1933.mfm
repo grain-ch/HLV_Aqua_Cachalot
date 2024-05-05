@@ -1,0 +1,75 @@
+<ASS003_Cachalot_1933.mfm>
+	<!--<fx>	shaders/std_effects/PBS_ship.fx	</fx>-->
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933_ao.dds	</Texture>
+	</property>
+	<property>	detailMap
+		<Texture>	content/gameplay/common/textures/ship_atlas_detail.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933_n.dds	</Texture>
+	</property>
+	<property>	g_detailAlbedoInfluence
+		<Float>	0.6000	</Float>
+	</property>
+	<property>	g_detailFadeDistance
+		<Float>	5.0000	</Float>
+	</property>
+	<property>	g_detailGlossInfluence
+		<Float>	1.0000	</Float>
+	</property>
+	<property>	g_detailNormalInfluence
+		<Float>	0.4000	</Float>
+	</property>
+	<property>	g_detailScaleU
+		<Float>	32.0000	</Float>
+	</property>
+	<property>	g_detailScaleV
+		<Float>	8.0000	</Float>
+	</property>
+	<!--　ここからanim x emissive用追加パラメータ -->
+	<property>	animMap
+		<Texture>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933_anim.dds	</Texture>
+	</property>
+	<property>	emissivePower
+		<Float>	1.80000	</Float>
+	</property>
+	<property>	emissionAnimationMode
+		<Int>	3	</Int>
+	</property>	
+	<property>	emissionColorMode
+		<Int>	1	</Int>
+	</property>
+	<property>	animEmissionPower
+		<Float>	2.30000	</Float>
+	</property>	
+	<property>	animScale
+		<Vector4>	1	1	1	1	</Vector4>
+	</property>
+	<property>	maskColor1
+		<Vector4>	0	0	0	1	</Vector4>
+	</property>
+	<property>	maskColor2
+		<Vector4>	0.4	0.1	0.1	1	</Vector4>
+	</property>
+	<property>	maskSpeed
+		<Vector4>	-0.012	0	1	0	</Vector4>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	250	</Int>
+	</property>
+</ASS003_Cachalot_1933.mfm>
