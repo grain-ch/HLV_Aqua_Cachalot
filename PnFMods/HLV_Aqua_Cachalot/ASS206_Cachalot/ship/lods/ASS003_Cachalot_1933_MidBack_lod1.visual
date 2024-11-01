@@ -126,7 +126,7 @@
 			<primitive>	MidBack_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMATX_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
 					<mfm>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/ship/ASS003_Cachalot_1933.mfm	</mfm>
 				</material>
 			</primitiveGroup>
