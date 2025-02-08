@@ -1,7 +1,6 @@
 <AGS206_3in50_MK21_Sub.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/gun/lods/AGS206_3in50_MK21_Sub_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/gun/AGS206_3in50_MK21_Sub	</nodefullVisual>
+	<visual>	PnFMods/HLV_Aqua_Cachalot/ASS206_Cachalot/gun/AGS206_3in50_MK21_Sub.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </AGS206_3in50_MK21_Sub.model>
